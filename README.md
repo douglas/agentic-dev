@@ -16,3 +16,7 @@ Keep each skill self-contained and include:
 - a clear `SKILL.md` entrypoint
 - any scripts, templates, or references needed by the skill
 - usage notes that explain when an agent should apply it
+
+## Included Skills
+
+- `add-to-memory` - Record durable memory notes for both Claude and Codex.

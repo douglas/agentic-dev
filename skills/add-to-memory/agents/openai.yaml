@@ -1,0 +1,4 @@
+interface:
+  display_name: "Add To Memory"
+  short_description: "Record memory in Claude and Codex"
+  default_prompt: "Use $add-to-memory to save this preference for both agents."
