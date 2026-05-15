@@ -6,7 +6,7 @@ Shared AI-related skills, prompts, and agent workflow notes.
 
 - `skills/` - Reusable skill definitions and supporting files.
 - `prompts/` - Prompt templates and workflow starters.
-- `hooks/` - Reusable automation hooks for agent workflows.
+- `hooks/` - Reusable automation hooks for agent workflows, including CLI preference hooks.
 - `docs/` - Notes about usage, conventions, and publishing.
 
 ## Skill Guidelines
