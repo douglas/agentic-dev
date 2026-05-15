@@ -20,3 +20,8 @@ Keep each skill self-contained and include:
 ## Included Skills
 
 - `add-to-memory` - Record durable memory notes for both Claude and Codex.
+
+## Included Hooks
+
+- `enforce-cli` - Block discouraged shell commands and direct agents toward `fd`, `rg`, and `bat`.
+- `enforce-cli-agent` - Share the same CLI preferences with subagents.
