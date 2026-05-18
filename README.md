@@ -25,3 +25,16 @@ Keep each skill self-contained and include:
 
 - `enforce-cli` - Block discouraged shell commands and direct agents toward `fd`, `rg`, and `bat`.
 - `enforce-cli-agent` - Share the same CLI preferences with subagents.
+
+## Recommended Tools
+
+### macOS
+
+  * [CodexBar — every AI coding limit in your menu bar](https://codexbar.app/)
+  * [Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents](https://github.com/manaflow-ai/cmux)
+  * [Maestri · An orchestration canvas for AI agents](https://www.themaestri.app/en)
+  * [cctop — monitor and jump between AI coding sessions](https://cctop.app/)
+
+### Linux
+
+  * [cmux-gtk - Port of cmux-gtk to GTK](https://github.com/douglas/cmux-gtk)
